@@ -1,4 +1,4 @@
-picksPaddock
+Dawn with Initializr
 ============
 
-Picks from the Paddock, grunt build.
+Frontend framework containing Dawn and Initializr Bootstrap boilerplate.
